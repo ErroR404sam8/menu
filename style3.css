@@ -1,0 +1,26 @@
+*{margin: 0; padding: 0;}
+
+.main{
+
+}
+.Menu{
+    overflow: hidden;
+    background: lightblue;
+}
+.Menu ul{
+    text-align: left;
+    list-style: none;
+    padding: 16px;
+
+}
+.Menu ul li{
+    font-size: 33px;
+    color: black;
+    padding: 15px;
+    
+   
+}
+.Menu ul li:hover{
+    background: lightslategray;
+    transition: 3s;
+}
